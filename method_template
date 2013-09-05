@@ -1,0 +1,17 @@
+/**
+ * Method Name: method name here <br>
+ * Method Purpose: method purpose here <br>
+ *
+ * <hr>
+ * Date created: date here <br>
+ * Last modified: date here <br>
+ *
+ * <hr>
+ * Notes on specifications, special algorithms, and assumptions:
+ * notes go here
+ *
+ * <hr>
+ *   @param  name of param1 description of param1
+ *   @param  name of param2 description of param2, etc.
+ *   @return a String containing the data read from the file.
+*/
